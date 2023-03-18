@@ -1,0 +1,2 @@
+não corresponde a RegEx (ignorar uso de maiúsculas)
+^(undefined|null|NaN|)$
