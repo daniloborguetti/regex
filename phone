@@ -1,0 +1,11 @@
+Formato do telefone: 99999999999
+(\d+)(\d+)(\d+)
+55$1$2$3
+
+Formato do telefone: 99 99999-9999
+(\d+)\s(\d+)-(\d+)
+55$1$2$3
+
+Formato do telefone: (99) 99999-9999
+\((\d+)\)\s(\d+)-(\d+)
+55$1$2$3
